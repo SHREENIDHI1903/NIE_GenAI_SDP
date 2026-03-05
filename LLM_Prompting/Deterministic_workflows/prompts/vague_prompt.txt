@@ -1,0 +1,8 @@
+role: "Email Classifier"
+task: "Analyze the provided email text."
+output_format: "JSON"
+schema:
+  summary: "One sentence max"
+  priority: "High/Medium/Low"
+  action_required: "Boolean"
+  category: "Billing/Technical/General"

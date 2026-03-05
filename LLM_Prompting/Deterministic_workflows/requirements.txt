@@ -1,0 +1,4 @@
+langchain-ollama
+pydantic
+pyyaml
+streamlit

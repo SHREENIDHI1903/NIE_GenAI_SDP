@@ -1,0 +1,6 @@
+name: email_processor
+description: Reads and writes email content
+template: 'Read and write the following email: {input_data}. Respond in JSON format.'
+schema:
+  email_content: The entire email content as a string
+  is_read: Boolean flag

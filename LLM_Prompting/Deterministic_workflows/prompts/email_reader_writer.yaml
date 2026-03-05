@@ -1,0 +1,18 @@
+name: email_reader_writer
+description: Reads and writes email content and metadata
+template: 'Read and write email from/to {input_data}. You can specify the following
+  actions: {actions}'
+actions:
+- type: text
+  name: Read email content
+  input_data: '{email_content}'
+- type: text
+  name: Write email content
+  input_data: '{email_content}'
+- type: choice
+  name: Choose action
+  choices:
+  - value: read
+    name: Read content
+  - value: write
+    name: Write content

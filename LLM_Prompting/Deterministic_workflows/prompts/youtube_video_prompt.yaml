@@ -1,0 +1,8 @@
+name: youtube_video_prompt
+description: See an YouTube video
+template: The system will generate a prompt for a YouTube video based on the text
+  you provide. The prompt will include the video title, description, and other relevant
+  information.
+schema:
+  field_1: text
+  field_2: text

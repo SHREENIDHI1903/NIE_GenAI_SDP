@@ -1,0 +1,6 @@
+name: '{user_intent}'
+description: '{user_goal}'
+template: '{template_text}'
+schema:
+  '{input_data}':
+    type: string

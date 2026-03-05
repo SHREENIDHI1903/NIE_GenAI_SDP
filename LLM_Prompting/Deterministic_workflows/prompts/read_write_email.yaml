@@ -1,0 +1,10 @@
+name: read_write_email
+description: Reads and writes email content
+template: 'Read and write: {input_data}. You can specify the email address and file
+  path as separate input data. Use double quotes for all keys. Respond ONLY with JSON.'
+schema:
+  input_data:
+    type: object
+    properties:
+      email: string
+      file_path: string

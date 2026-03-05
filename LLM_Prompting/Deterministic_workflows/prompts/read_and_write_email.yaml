@@ -1,0 +1,10 @@
+name: read_and_write_email
+description: Read and write an email
+template: "Write a complete email with the following structure:\n  * Subject: {subject}\n\
+  \  * Body: {body}\n  * Attachments: {attachments}\n\nUse {input_data} for the subject,\
+  \ body, and attachments. Use {format_instructions} for the JSON formatting instructions.\
+  \ Escape other curly braces using double curly braces (e.g., {{field}})."
+schema:
+  field_1: String
+  field_2: String
+  field_3: Array of objects

@@ -1,0 +1,10 @@
+name: email_management
+description: Read and write email
+template: 'Read/Write: {input_data}. {format_instructions}'
+schema:
+  type: object
+  properties:
+    input_data:
+      type: string
+    format_instructions:
+      type: string

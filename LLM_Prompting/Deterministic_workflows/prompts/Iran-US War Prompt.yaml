@@ -1,0 +1,7 @@
+name: Iran-US War Prompt
+description: Generate a system prompt for searching about the Iran-US War
+template: 'Search for information about the Iran-US War on YouTube using the following
+  keywords: {keyword_1}, {keyword_2}'
+schema:
+  field_1: Keyword type (e.g., string, boolean)
+  field_2: Keyword type (e.g., string, boolean)

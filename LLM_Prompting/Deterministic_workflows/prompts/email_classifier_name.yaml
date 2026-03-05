@@ -1,0 +1,4 @@
+name: email_classifier_name
+description: Analyze the provided email text.
+template: The text of the email is analyzed to determine its category. The output
+  format is JSON.

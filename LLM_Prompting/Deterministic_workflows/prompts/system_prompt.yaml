@@ -1,0 +1,15 @@
+name: email_classification_prompt
+description: "Prompt for deterministic JSON extraction from an email text"
+template: |
+  You are a professional assistant. You must extract information from the following email into strict JSON format.
+  
+  Do not include markdown codeblocks or any extra text. ONLY raw JSON.
+  
+  The JSON structure MUST follow this schema:
+  {{
+      "summary": "Short summary of the email",
+      "priority": "High/Medium/Low",
+      "is_urgent": true or false
+  }}
+  
+  Input text: {email_content}
