@@ -1,0 +1,18 @@
+Hypertension Management Guidelines (2025 Update)
+
+1. Diagnosis:
+Hypertension is diagnosed when a patient's resting blood pressure consistently exceeds 130/80 mm Hg on at least two separate clinic visits.
+Primary essential hypertension accounts for 95% of cases.
+
+2. Treatment Protocols:
+- First-line therapy for non-black patients: ACE inhibitors (e.g., Lisinopril), ARBs (e.g., Losartan), or Calcium Channel Blockers (e.g., Amlodipine).
+- First-line therapy for black patients: Thiazide-type diuretics or Calcium Channel Blockers.
+- For patients with Chronic Kidney Disease (CKD), ACE inhibitors or ARBs are recommended to preserve kidney function regardless of race.
+
+3. Lifestyle Interventions:
+- Dietary sodium reduction to <1500 mg/day.
+- DASH (Dietary Approaches to Stop Hypertension) diet implementation.
+- At least 150 minutes of moderate-intensity aerobic physical activity per week.
+
+4. Follow-up:
+Patients starting new antihypertensive therapy should be re-evaluated within 4 weeks. If the blood pressure target is not met, titrate the current medication or add a second agent from a different class.

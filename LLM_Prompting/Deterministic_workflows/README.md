@@ -79,7 +79,7 @@ This application relies on `langchain-ollama` to run models locally and complete
 
 ---
 
-## 🧠 Assignment Ideas for Students
+## 🧠 Assignment for Students
 
 Want to challenge yourself? Try implementing the following features into `app.py`:
 

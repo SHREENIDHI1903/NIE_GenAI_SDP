@@ -1,0 +1,16 @@
+Type 2 Diabetes Mellitus Management
+
+1. Diagnosis:
+A Fasting Plasma Glucose (FPG) level of 126 mg/dL (7.0 mmol/L) or higher, or a Hemoglobin A1c (HbA1c) level of 6.5% or higher on two separate tests confirms the diagnosis of diabetes.
+
+2. Pharmacologic Therapy:
+- Metformin remains the preferred initial pharmacologic agent for the treatment of type 2 diabetes.
+- In patients with established atherosclerotic cardiovascular disease (ASCVD), a GLP-1 receptor agonist (e.g., Semaglutide, Liraglutide) or SGLT2 inhibitor (e.g., Empagliflozin) with proven cardiovascular benefit is recommended as part of the glucose-lowering regimen.
+- For patients with heart failure or CKD, an SGLT2 inhibitor is preferred.
+
+3. Glycemic Targets:
+- A reasonable HbA1c goal for many nonpregnant adults is <7.0%.
+- More stringent goals (e.g., <6.5%) may be appropriate for younger patients with a short duration of diabetes and no significant cardiovascular disease.
+
+4. Monitoring:
+HbA1c should be measured every 3-6 months depending on whether the patient is meeting their target. Annual retinal screening and comprehensive foot exams are strictly advised.
